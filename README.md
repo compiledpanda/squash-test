@@ -1,3 +1,4 @@
 # squash-test
 
 A
+B
